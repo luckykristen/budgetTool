@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 40px;
+    background-color: rgba(47, 120, 120, 0.563);
+    margin-top: 50px;
+}
+
+.par {
+    padding-top: 20px;
+}
+
+#expenseCategory {
+    width: 230px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.totalExpenses {
+    margin-top: 20px;
+}
+
+#btn {
+    padding: 10px;
+}
